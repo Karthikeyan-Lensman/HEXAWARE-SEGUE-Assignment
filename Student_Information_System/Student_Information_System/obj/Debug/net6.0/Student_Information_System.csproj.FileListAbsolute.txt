@@ -1,0 +1,14 @@
+E:\Hexaware\C#\Student_Information_System\bin\Debug\net6.0\Student_Information_System.exe
+E:\Hexaware\C#\Student_Information_System\bin\Debug\net6.0\Student_Information_System.deps.json
+E:\Hexaware\C#\Student_Information_System\bin\Debug\net6.0\Student_Information_System.runtimeconfig.json
+E:\Hexaware\C#\Student_Information_System\bin\Debug\net6.0\Student_Information_System.dll
+E:\Hexaware\C#\Student_Information_System\bin\Debug\net6.0\Student_Information_System.pdb
+E:\Hexaware\C#\Student_Information_System\obj\Debug\net6.0\Student_Information_System.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hexaware\C#\Student_Information_System\obj\Debug\net6.0\Student_Information_System.AssemblyInfoInputs.cache
+E:\Hexaware\C#\Student_Information_System\obj\Debug\net6.0\Student_Information_System.AssemblyInfo.cs
+E:\Hexaware\C#\Student_Information_System\obj\Debug\net6.0\Student_Information_System.csproj.CoreCompileInputs.cache
+E:\Hexaware\C#\Student_Information_System\obj\Debug\net6.0\Student_Information_System.dll
+E:\Hexaware\C#\Student_Information_System\obj\Debug\net6.0\refint\Student_Information_System.dll
+E:\Hexaware\C#\Student_Information_System\obj\Debug\net6.0\Student_Information_System.pdb
+E:\Hexaware\C#\Student_Information_System\obj\Debug\net6.0\Student_Information_System.genruntimeconfig.cache
+E:\Hexaware\C#\Student_Information_System\obj\Debug\net6.0\ref\Student_Information_System.dll
